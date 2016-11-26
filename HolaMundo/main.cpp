@@ -15,9 +15,12 @@ int main()
     cout << "5 Commit!" << endl;
 
     cout << "6 Commit!" << endl;
-    cout << "6 Commit!" << endl;
-    cout << "6 Commit!" << endl;
-    cout << "6 Commit!" << endl;
+
+    cout << "7 Commit!" << endl;
+    cout << "7 Commit!" << endl;
+    cout << "7 Commit!" << endl;
+    cout << "7 Commit!" << endl;
+
 
     return 0;
 }
